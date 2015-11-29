@@ -1,0 +1,11 @@
+<Panel ux:AutoCtor="false">
+	<Text Alignment="Center" FontSize="20" TextColor="#0b0" ux:Name="Text1">
+		<Blur Radius=".2"/>
+	</Text>
+	<Text Alignment="Center" FontSize="20" TextColor="#0b0" ux:Name="Text2">
+		<Blur Radius="5"/>
+	</Text>
+	<Rectangle Fill="#0b0" Opacity=".5" Margin="-10" Width="180" Height="35">
+		<Blur Radius="15"/>
+	</Rectangle>
+</Panel>
